@@ -1,0 +1,1 @@
+# Root-My-Galaxy-Next-Payloads
