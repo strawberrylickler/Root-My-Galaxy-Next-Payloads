@@ -11,11 +11,11 @@
         "6.1.145"
       ],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/indeedkerem-coder/Root-My-Galaxy-Payloads/main/artifacts/gts10pwifi-X820XXSBDZI2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/strawberrylickler/Root-My-Galaxy-Next-Payloads/main/artifacts/gts10pwifi-X820XXSBDZI2/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/indeedkerem-coder/Root-My-Galaxy-Payloads/main/kernelsu/ksud-gts10pwifi-X820XXSBDZI2-kdp",
+        "url": "https://raw.githubusercontent.com/strawberrylickler/Root-My-Galaxy-Next-Payloads/main/kernelsu/ksud-gts10pwifi-X820XXSBDZI2-kdp",
         "size": 4767664
       }
     },
